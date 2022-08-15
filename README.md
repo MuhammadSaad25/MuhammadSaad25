@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsaad25" alt="muhammadsaad25" /></a> </p>
 
-- 📄 Know about my experiences [hfhg](hfhg)
+- 🌱 I’m currently learning **JavaScript and React**
 
-- ⚡ Fun fact **hvh**
+- 📫 How to reach me **muhammadsaad2522@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
