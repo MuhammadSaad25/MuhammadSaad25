@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saad</h1>
 <h3 align="center">A Passionate Full-stack Developer from Karachi Pakistan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsaad25&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaad25" /> </p>
+<p > <img src="https://komarev.com/ghpvc/?username=muhammadsaad25&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaad25" />
+<img src="https://wakatime.com/badge/user/87fb0d2d-4c33-4ac7-b18c-7212f14aa734.svg" alt="muhammadsaad25" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsaad25" alt="muhammadsaad25" /></a> </p>
 
